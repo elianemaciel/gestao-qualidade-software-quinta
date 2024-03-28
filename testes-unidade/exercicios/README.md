@@ -32,7 +32,7 @@ Suponha uma função fib(n), que retorna o n-ésimo termo da sequência de Fibon
 - Crie um PR com o código gerado (Nesse repositório) e peça a um colega para que faça a revisão.
 _____________________________________________________________________________________________________________________________________________________________________________________________________
 
-**Exercício: Testando uma Função de Fibonacci**
+**Exercício 3**
 
 Seja a seguinte função. Observe que ela possui quatro comandos, sendo dois deles if. Logo, esses dois ifs geram quatro branches:
 
